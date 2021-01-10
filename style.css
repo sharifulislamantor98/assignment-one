@@ -13,6 +13,12 @@ p{
     color: gray;
     font-weight: 700;
 }
+.worked{
+    text-align: right;
+    float: right;
+    font-weight: 700;
+    margin: 10px;
+}
 .main-line{
     color: orangered;
 }
@@ -23,6 +29,7 @@ p{
     padding-left: 2%;
 }
 .half-width img{
+    margin top: 10px;
     width: 100%;
 }
 .link-button{
@@ -45,10 +52,11 @@ p{
 .single-work{
     box-shadow:10px 10px 40px grey;
     border-radius: 10px;
-
-
 }
 .job-area{
     clear: both;
+    margin-left: 10%;
 }
+
+
 
